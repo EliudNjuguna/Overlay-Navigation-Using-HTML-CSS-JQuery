@@ -121,6 +121,9 @@ nav #menu li a{
     cursor: pointer;
     transition: all 0.3s ease-out;
 }
+#resize li:nth-child(1){
+    margin-top: 140px;
+}
 #resize #menu li a{
     color: #fff;
 }
